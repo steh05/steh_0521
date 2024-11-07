@@ -1,0 +1,23 @@
+body {
+    color:purple;
+    background: pink;
+}
+
+header {
+      border-bottom: solid 1px;
+      padding: 20px;
+      font-size: 32;
+      color: purple;
+}
+
+section {
+     background: #bb7ebb;
+     padding-bottom: 80px;
+     padding-top: 80;
+     display: flex;
+     justify-content: center;
+}
+
+div {
+    background: #bb7ebb;
+}
